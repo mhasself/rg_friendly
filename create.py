@@ -8,7 +8,7 @@ import pylab as plt
 # A list of (filename, template) pairs.
 templates = [
 
-    ('matplotlibrc',
+    ('rg_friendly.mplstyle',
 """axes.prop_cycle    : cycler('color', {string_list})
 """),
 
