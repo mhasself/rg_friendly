@@ -1,0 +1,10 @@
+2424f0 blue
+df6f0e orange
+3cc03c green
+d62728 red
+b467bd purple
+ac866b brown
+e397d9 pink
+9f9f9f grey
+ecdd72 yellow
+77becf cyan
